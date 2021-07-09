@@ -8,3 +8,5 @@ if (input === null) {
 } else {
  console.log(input);
 }
+
+let emptyValue = null

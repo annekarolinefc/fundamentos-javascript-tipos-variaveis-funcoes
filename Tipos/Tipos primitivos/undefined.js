@@ -8,3 +8,6 @@ console.log(input2); // undefined
 //usualmente, enquanto null é um valor atribuído a uma variável que existe e 
 //foi iniciada, undefined se refere ao valor de uma variável que não foi inicializada 
 //(ou seja, não foi atribuído nenhum valor a ela).
+
+let firstName
+console.log(firstName) //not defined, because it is not assigned to a value yet

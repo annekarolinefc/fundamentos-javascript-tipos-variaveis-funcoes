@@ -1,4 +1,9 @@
 //TIPO TEXTO
+
+const myName = "Anne" //single quote
+const myDoubleName = "Anne Karoline" //double quote
+const myCompleteName = "Anne Karoline Fortunato do Carmo" //backtick quote
+
 const texto1 = "Olá, Mundo!";
 const texto2 = 'Olá, Mundo!';
 

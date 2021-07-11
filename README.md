@@ -6,3 +6,7 @@
     - Curso Web Moderno Completo com JavaScript 2021 + Projetos disponível na UDEMY.<br>
     - Teoria e listas de exercicios para praticar do repositório sobre <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">🔗 30 days of Javascritp</a>
 </p>
+
+<h4 align="center"> 
+	🚧  Estudos sobre Javascript 🚀 Em construção...  🚧
+</h4>
